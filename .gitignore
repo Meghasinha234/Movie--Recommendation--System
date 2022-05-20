@@ -1,0 +1,6 @@
+venv/
+*.pkl
+.idea/
+.git/
+setup
+procfile
